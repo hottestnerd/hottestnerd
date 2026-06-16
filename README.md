@@ -13,6 +13,11 @@ ${\text{\color{#804f33} tell　\color{#845637} you　\color{#875e3b} what ,　\c
 
 <sub>${\text{\color{#804f33} i　\color{#88603d} wish　\color{#907148} i　\color{#978256} knew　\color{#9e9366} how　\color{#a6a478} to　\color{#adb58b} quit　\color{#b6c69f} you. .}}$ <br>
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rowrn7i2zmr4e3l4psriytrpyq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4e3732&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=d7c9b0&mode=dark">
+  </a>
+</p>
 
 <p align="center">
 ✦
