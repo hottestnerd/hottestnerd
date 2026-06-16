@@ -15,7 +15,7 @@ ${\text{\color{#804f33} tell　\color{#845637} you　\color{#875e3b} what ,　\c
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rowrn7i2zmr4e3l4psriytrpyq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4e3732&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=d7c9b0&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rowrn7i2zmr4e3l4psriytrpyq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=4e3732&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=d7c9b0&mode=dark">
   </a>
 </p>
 
