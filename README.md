@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
- <img src=https://i.imgur.com/J5InuOD.png&=&format=webp&quality=lossless&width=6820&height=613" width="auto" height="420" align="center"></img></a> <br>
+ <img src=https://i.imgur.com/DkD0fWY.png&=&format=webp&quality=lossless&width=6820&height=613" width="auto" height="420" align="center"></img></a> <br>
 <div align="center">
 
 
