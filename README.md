@@ -19,7 +19,7 @@
 <details>
   <summary> <b>BEFORE YOU INTERACT:</b> </summary>
   <br>
-  NOTE: I am a very opinionated person and I am quite vocal and open with my beliefs. I do not partake in discourse that is aggressive, disrespectful, or meant to argue than to criticize constructively. That being said, I am pro-choice, a communist, and I advocate for armed struggle. For more, please press the red star above or my pronouns tab.
+  NOTE: I am a very opinionated person and I am quite vocal and open with my beliefs. I do not partake in discourse that is aggressive, disrespectful, or meant to argue than to criticize constructively. That being said, I am pro-choice, a marxist-leninist-maoist, and I advocate for armed struggle. For more, please press the red star above or my pronouns tab.
 </details>
 
 <details>
